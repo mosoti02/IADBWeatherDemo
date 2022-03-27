@@ -1,0 +1,3 @@
+interface Rain{
+    firsthour:number;
+}
